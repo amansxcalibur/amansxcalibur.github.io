@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aman V.Shafeeq</title>
+    <link>amansxcalibur.github.io/</link>
+    <description>Recent content on Aman V.Shafeeq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Aug 2023 12:00:37 +0530</lastBuildDate><atom:link href="amansxcalibur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> About Me</title>
+      <link>amansxcalibur.github.io/about/about/</link>
+      <pubDate>Mon, 28 Aug 2023 12:00:37 +0530</pubDate>
+      
+      <guid>amansxcalibur.github.io/about/about/</guid>
+      <description>Hello there(General Kenobi), Im Aman V.S. and Im from Kadavanthara, Ernakulam(aah yess Kochi). we were taught Java from 8th grade in our school and I was all in for it-probably because I like problem solving but oh well. Here I am now grinding to get into AmFOSS</description>
+    </item>
+    
+    <item>
+      <title>How I built this Website</title>
+      <link>amansxcalibur.github.io/blog/second/</link>
+      <pubDate>Mon, 28 Aug 2023 12:00:37 +0530</pubDate>
+      
+      <guid>amansxcalibur.github.io/blog/second/</guid>
+      <description>This website was built using HUGO!
+Hugo is an open-source static site generator built with Golang that basically carried me all the way through.
+Hugo itself is a static site generator built with Go (also known as Golang). It gracefully takes content files and templates to orchestrate the birth of a complete website.
+I went to the terminal to install Hugo, for which I used the statement : brew install hugo</description>
+    </item>
+    
+  </channel>
+</rss>
